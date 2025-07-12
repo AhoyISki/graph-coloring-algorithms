@@ -1,9 +1,8 @@
-# graph-coloring-algorithms ![License](https://img.shields.io/crates/l/graph-coloring-algorithms) [![graph-coloring-algorithms on crates.io](https://img.shields.io/crates/v/graph-coloring-algorithms)](https://crates.io/crates/graph-coloring-algorithms)
+# graph-coloring-algorithms
 
 Some graph coloring algorithms
 
-In order to run these, just install [rust][__link0], and, from the cloned
-repository’s path, just call:
+In order to run these, just install [rust][__link0] and, from the cloned repository’s path, call:
 
 ```bash
 cargo run --release

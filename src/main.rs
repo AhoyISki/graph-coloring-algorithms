@@ -1,7 +1,7 @@
 //! Some graph coloring algorithms
 //!
-//! In order to run these, just install [rust], and, from the cloned
-//! repository's path, just call:
+//! In order to run these, just install [rust] and, from the cloned
+//! repository's path, call:
 //!
 //! ```bash
 //! cargo run --release
