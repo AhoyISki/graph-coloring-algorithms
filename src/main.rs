@@ -34,7 +34,6 @@
 //! Here are some benchmarks, from some [DIMACS graphs]:
 //!
 //! first fit:
-//! - took 39.80µs on paper-test.col with 3 colors
 //! - took 1.04ms on dsjc250.5.col with 43 colors
 //! - took 967.33µs on dsjc500.1.col with 20 colors
 //! - took 3.25ms on dsjc500.5.col with 72 colors
@@ -58,7 +57,6 @@
 //! - took 180.33ms on C4000.5.col with 402 colors
 //! 
 //! welsh powell:
-//! - took 2.02µs on paper-test.col with 3 colors
 //! - took 391.56µs on dsjc250.5.col with 41 colors
 //! - took 519.00µs on dsjc500.1.col with 19 colors
 //! - took 1.36ms on dsjc500.5.col with 70 colors
@@ -82,7 +80,6 @@
 //! - took 79.76ms on C4000.5.col with 398 colors
 //! 
 //! largest degree ordering:
-//! - took 2.50µs on paper-test.col with 3 colors
 //! - took 965.37µs on dsjc250.5.col with 41 colors
 //! - took 1.55ms on dsjc500.1.col with 19 colors
 //! - took 3.82ms on dsjc500.5.col with 70 colors
